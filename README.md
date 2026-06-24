@@ -1,4 +1,3 @@
-# forge2-multi-agent-system
 # Forge 2 Multi-Agent System
 
 ## Problem Statement
